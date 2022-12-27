@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 60px;
+  background-color: #4F4F4F;
+  display: flex;
+  align-items: center;
+}
+header .nav-bar {
+  width: 100%;
+  height: 28.93px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .nav-bar-item {
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: none;
+  margin-left: 20px;
+}
+header .nav-bar-item:hover {
+  color: #828282;
+}
+
+.promo-block .carusel-button-1 {
+  width: 136px;
+  height: 38px;
+  border: none;
+  border-radius: 6px;
+  background-color: #8DD83D;
+  color: #ffffff;
+}
+.promo-block .carusel-button-2 {
+  width: 136px;
+  height: 38px;
+  border: none;
+  border-radius: 6px;
+  background-color: #828282;
+  color: #ffffff;
+}
+
+.gamepath {
+  width: 100%;
+  height: 865px;
+  background-color: #4F4F4F;
+  display: flex;
+}
+.gamepath .container-1-h1 {
+  color: #ffffff;
+}
+.gamepath .container-1-h3 {
+  color: #ffffff;
+}
+.gamepath .gamepath-logo {
+  width: 63px;
+  height: 63px;
+}
+.gamepath .container-1 {
+  width: 100%;
+  height: 176px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 64px;
+}
+.gamepath .container-2 {
+  width: 100%;
+  height: 420px;
+  display: flex;
+  margin-top: 43px;
+  justify-content: space-between;
+}
+.gamepath .container-2-card {
+  width: 300px;
+  height: 420px;
+  border: 1px solid #8DD83D;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.gamepath .container-2-button {
+  width: 278px;
+  height: 60px;
+  border: none;
+  border-radius: 6px;
+  background-color: #8DD83D;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.gamepath .card-1 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+.gamepath .car-1-h3 {
+  margin-left: 20px;
+}
+.gamepath .car-1-h4 {
+  margin-left: 20px;
+}/*# sourceMappingURL=style.css.map */
